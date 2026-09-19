@@ -1,4 +1,4 @@
-# Silvestro Companies — initial website
+# Silvestro  — initial website
 
 Upload index.html, family.html, company.html, .nojekyll, and the assets folder to the repository root. The site uses plain HTML and CSS; no installation or build is needed.
 
