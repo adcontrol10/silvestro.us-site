@@ -6,6 +6,6 @@ In GitHub Settings → Pages, choose Deploy from a branch, then main and /(root)
 
 The Family page is a public under-construction placeholder. It has no authentication and must not contain passwords, private family details, or confidential files. Zoho login integration and protected family access remain future work.
 
-Company information was transcribed from the supplied screenshot. Confirm it is current before launch. The home page includes a cleaned image version of the supplied family crest, with Inc. removed from the logo. The header uses a simple S monogram.
+Silvestro information was transcribed from the supplied screenshot. Confirm it is current before launch. The home page includes a cleaned image version of the supplied family crest, with Inc. removed from the logo. The header uses a simple S monogram.
 
 No CNAME file is included: uploading this draft should not switch silvestro.us. Preserve the existing Zoho MX, SPF, verification and other email settings during any later website DNS changes. The silvestro.me redirect and mail.silvestro.us configuration are not changed by these files.
